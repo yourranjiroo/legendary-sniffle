@@ -12,20 +12,20 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "সমকামী বিরোধী সাসুকে",
-  "prefix": "/",
+  "nickNameBot": "yorichi no kami",
+  "prefix": "$",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "100063840894133",
-    "100083039411474"
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100083039411474", "100063840894133"
+      "", ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
